@@ -29,6 +29,7 @@
 My first microverse project. 
 
 **[Hello_Microverse]** is a...
+This project is my first project at microverse to that help me learn how to use github professionally. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
