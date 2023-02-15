@@ -28,10 +28,10 @@
 
 My first microverse project. 
 
-**[Hello_Microverse]** is a...
 This project is my first project at microverse to that help me learn how to use github professionally. 
 
 ## 🛠 Built With <a name="built-with"></a>
+
 
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -114,9 +114,7 @@ If you like this project send a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-I would like to thank...
-Alvee my coding partner for the support
+I would like to thank Alvee my coding partner for the support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
