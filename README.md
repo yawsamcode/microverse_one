@@ -26,15 +26,17 @@
 
 # 📖 [Hello_Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+My first microverse project. 
 
 **[Hello_Microverse]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
+
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+Html 
+CSS
 
 <details>
   <summary>Client</summary>
@@ -52,22 +54,13 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 Only Chrome or other browser
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
@@ -83,9 +76,7 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
-👤 **malvee**
+👤 **yawsamcode**
 
 - GitHub: [@githubhandle](https://github.com/yawsamcode)
 - Twitter: [@twitterhandle](https://twitter.com/yawsamcode)
@@ -101,9 +92,8 @@ Clone this repository to your desired folder:
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project send a star 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +101,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+
 
 I would like to thank...
 
