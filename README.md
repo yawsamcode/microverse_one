@@ -76,7 +76,7 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **yawsamcode**
+👤 **Samuel Acheampong**
 
 - GitHub: [@githubhandle](https://github.com/yawsamcode)
 - Twitter: [@twitterhandle](https://twitter.com/yawsamcode)
