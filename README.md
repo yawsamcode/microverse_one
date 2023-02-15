@@ -114,8 +114,8 @@ If you like this project send a star
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-
 I would like to thank...
+Alvee my coding partner for the support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
